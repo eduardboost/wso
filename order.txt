@@ -1,8 +1,8 @@
 {
 "backup":{
-	"host1":"https://pastebin.com/raw/7nfeR6dN",
-	"host2":"https://pastebin.com/raw/7nfeR6dN",
-	"host3":"https://pastebin.com/raw/7nfeR6dN"
+	1:"https://pastebin.com/raw/7nfeR6dN",
+	2:"https://pastebin.com/raw/7nfeR6dN",
+	3:"https://pastebin.com/raw/7nfeR6dN"
 },
 "masterHost":"https://google.com",
 "status":1,
