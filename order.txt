@@ -1,0 +1,10 @@
+{
+"backup":{
+	"host1":"https://pastebin.com/raw/7nfeR6dN",
+	"host2":"https://pastebin.com/raw/7nfeR6dN",
+	"host3":"https://pastebin.com/raw/7nfeR6dN"
+},
+"masterHost":"https://google.com",
+"status":1,
+"int":10
+}
